@@ -6,8 +6,9 @@ Mas pode me chamar de Vini, se quiser. Sou desenvolvedor web full-stack, mineiro
 
 - Sou graduado em Análise e Desenvolvimento de Sistemas pelo Grupo UNIS;
 - Completei meu MBA em Segurança da Informação pela Faculdade Descomplica em 2023;
-- Trabalho como desenvolvedor full-stack na (https://dfranquiaspay.com.br)[DFranquias Pay]
+- Trabalho como desenvolvedor full-stack na (DFranquias Pay)[https://dfranquiaspay.com.br]
 - Eu gosto MUITO mesmo de Laravel e PHP, mas também faço umas mágicas com outras tecnologias!
+- Sou entusiasta de open-source e tenho como objetivo contribuir o máximo possível para a comunidade
 
 ## Ferramentas e tecnologias
 
